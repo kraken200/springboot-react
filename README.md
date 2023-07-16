@@ -18,8 +18,8 @@ A spring boot react project based on REST architecture
  
 --To set up backend
 - Download or clone repository
-- create a new database in MySQL, I'm calling it 'ems' for future reference 
+- Create a new database in MySQL, I'm calling it 'ems' for future reference 
 - Open springboot-backend in your favuorite IDE (Eclipse, Netbeans etc.)
-- go to src/main/resources/application properties
+- Go to src/main/resources/application properties
 - Give the address of database in the designated area (eg- localhost/3000/ems)
-- Enter username and password in designated places
+- Enter username and password in designated spaces
